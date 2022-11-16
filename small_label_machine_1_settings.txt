@@ -1,0 +1,9 @@
+ipaddress_of_plc===10.73.15.100
+data_block_number_of_plc===17
+rack_number_of_plc===0
+slot_number_of_plc===1
+plc_db_read_delay_in_milliseconds===2000
+shiftA_start_time===06:00:00
+shiftB_start_time===14:30:00
+shiftC_start_time===22:30:00
+filename_of_excel_sheet===Small_label_machine_1_data.xlsx
